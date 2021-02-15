@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @silviabrochet
+- 👀 I’m interested in studying natural microbial communities!
+- 🌱 I’m currently learning how closely related bacterial strains interact and I am mainly using amplicon sequencing at the moment (and doing lots of statistics!)
+- 💞️ I’m looking to collaborate on nothing in particular at the moment besides my research interests in general 😸
+- 📫 How to reach me: twitter = silviabrochet
