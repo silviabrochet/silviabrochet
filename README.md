@@ -2,3 +2,4 @@
 - 👀 I’m interested in studying natural microbial communities!
 - 🌱 I’m currently learning how closely related bacterial strains interact and I am mainly using amplicon sequencing at the moment (and doing lots of statistics!)
 - 📫 How to reach me: twitter = silviabrochet
+- ORCID ID = https://orcid.org/0000-0002-6443-185X
